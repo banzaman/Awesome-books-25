@@ -2,15 +2,11 @@
 
 # Awesome books
 
-> Simple application developed with javascrip. It's main function is to storage prefer books (just author and book name) in one page, allowing to the user to remove it by clicking a button.
+> Simple application developed with javascrip. It's main function is to storage prefer books (just author and book name) in one page, allowing to the user to remove it by clicking a button. In the most recent mileston we have add some functionalities and refactor the main js file to work with classes.
 
 ## Built With
 
 - HTML, css and Javascript.
-
-## App screenshot
-
-![App screenshot](images/app_screenshot.png)
 
 ## Getting Started
 
